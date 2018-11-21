@@ -1,0 +1,13 @@
+C:\Users\Ert\Desktop\GT Timer, ProgressBar, Kronometre, Geri Sayım\GT Timer, ProgressBar, Kronometre, Geri Sayım\bin\Debug\GT Timer, ProgressBar, Kronometre, Geri Sayım.exe.config
+C:\Users\Ert\Desktop\GT Timer, ProgressBar, Kronometre, Geri Sayım\GT Timer, ProgressBar, Kronometre, Geri Sayım\bin\Debug\GT Timer, ProgressBar, Kronometre, Geri Sayım.exe
+C:\Users\Ert\Desktop\GT Timer, ProgressBar, Kronometre, Geri Sayım\GT Timer, ProgressBar, Kronometre, Geri Sayım\bin\Debug\GT Timer, ProgressBar, Kronometre, Geri Sayım.pdb
+C:\Users\Ert\Desktop\GT Timer, ProgressBar, Kronometre, Geri Sayım\GT Timer, ProgressBar, Kronometre, Geri Sayım\bin\Debug\tr\GT Timer, ProgressBar, Kronometre, Geri Sayım.resources.dll
+C:\Users\Ert\Desktop\GT Timer, ProgressBar, Kronometre, Geri Sayım\GT Timer, ProgressBar, Kronometre, Geri Sayım\obj\Debug\Sayım Uygulaması, Counting Application.csprojAssemblyReference.cache
+C:\Users\Ert\Desktop\GT Timer, ProgressBar, Kronometre, Geri Sayım\GT Timer, ProgressBar, Kronometre, Geri Sayım\obj\Debug\Sayım_Uygulaması_Counting_Application.Form1.resources
+C:\Users\Ert\Desktop\GT Timer, ProgressBar, Kronometre, Geri Sayım\GT Timer, ProgressBar, Kronometre, Geri Sayım\obj\Debug\Sayım_Uygulaması_Counting_Application.Properties.Resources.resources
+C:\Users\Ert\Desktop\GT Timer, ProgressBar, Kronometre, Geri Sayım\GT Timer, ProgressBar, Kronometre, Geri Sayım\obj\Debug\Sayım_Uygulaması_Counting_Application.Form1.tr.resources
+C:\Users\Ert\Desktop\GT Timer, ProgressBar, Kronometre, Geri Sayım\GT Timer, ProgressBar, Kronometre, Geri Sayım\obj\Debug\Sayım Uygulaması, Counting Application.csproj.GenerateResource.cache
+C:\Users\Ert\Desktop\GT Timer, ProgressBar, Kronometre, Geri Sayım\GT Timer, ProgressBar, Kronometre, Geri Sayım\obj\Debug\Sayım Uygulaması, Counting Application.csproj.CoreCompileInputs.cache
+C:\Users\Ert\Desktop\GT Timer, ProgressBar, Kronometre, Geri Sayım\GT Timer, ProgressBar, Kronometre, Geri Sayım\obj\Debug\tr\GT Timer, ProgressBar, Kronometre, Geri Sayım.resources.dll
+C:\Users\Ert\Desktop\GT Timer, ProgressBar, Kronometre, Geri Sayım\GT Timer, ProgressBar, Kronometre, Geri Sayım\obj\Debug\GT Timer, ProgressBar, Kronometre, Geri Sayım.exe
+C:\Users\Ert\Desktop\GT Timer, ProgressBar, Kronometre, Geri Sayım\GT Timer, ProgressBar, Kronometre, Geri Sayım\obj\Debug\GT Timer, ProgressBar, Kronometre, Geri Sayım.pdb
