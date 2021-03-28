@@ -1,2 +1,2 @@
-Sayim Uygulamasi - Counting Application
+Sayım Uygulaması - Counting Application
 https://i.hizliresim.com/WqWBr2.png
